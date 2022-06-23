@@ -1,4 +1,4 @@
-# Yandex-Toplu-Resim-ndirici
+# Yandex-Toplu-Resim-İndirici
 
 Yazdığınız yazıyla ilgili resimleri yandex görselde arayarak indiren bir yazılım.
 
