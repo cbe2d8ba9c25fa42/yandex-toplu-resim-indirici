@@ -1,0 +1,1 @@
+# Yandex-Toplu-Resim-ndirici
